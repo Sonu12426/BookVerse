@@ -9,3 +9,21 @@ export const getBook = async(req, res) => {
         res.status(500).json(error);
     }
 };
+
+export const createBook = async(req, res) => {
+    try {
+        const { name, price, category, image, title } = req.body;
+        const newBook = new Book({
+            name,
+            price,
+            category,
+            image,
+            title
+        });
+        const savedBook = await newBook.save();
+        res.status(201).json(savedBook);
+    } catch (error) {
+        console.log("Error: ", error);
+        res.status(500).json(error);
+    }
+};
