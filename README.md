@@ -2,10 +2,6 @@
 
 A full-stack web application for browsing and managing books, built with the MERN stack. Users can explore books, create accounts, and manage their reading collections.
 
-## 🚀 Live Demo
-
-[Live Application](https://your-deployed-app-url.com) *(Update with your deployed URL)*
-
 ## 📋 Table of Contents
 
 - [Features](#features)
@@ -16,9 +12,6 @@ A full-stack web application for browsing and managing books, built with the MER
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
@@ -205,50 +198,10 @@ BookVerse/
 └── README.md
 ```
 
-## 📱 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Books Collection
-![Books Page](screenshots/books.png)
-
-### About Page
-![About Page](screenshots/about.png)
-
-### Contact Page
-![Contact Page](screenshots/contact.png)
-
-*Note: Add actual screenshots to a `screenshots` folder in your repository*
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Sonu Kumar**
 - GitHub: [@Sonu12426](https://github.com/Sonu12426)
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who helped with this project
-- Inspired by modern e-commerce and book store applications
-- Built with love for the reading community
-
-## 📞 Support
-
-If you have any questions or need help with setup, please open an issue or contact me through the repository.
 
 ---
 
